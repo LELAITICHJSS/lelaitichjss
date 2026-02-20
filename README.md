@@ -1,4 +1,4 @@
-## Hi thLELAITICH-JUNIOR-SCHOOL.html 👋
+## Hi LELAITICH-JUNIOR-SCHOOL.html 👋
 
 <!--
 **lelaitichjss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
